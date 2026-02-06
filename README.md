@@ -18,7 +18,7 @@ Scope excluded:
 • Wallet–dApp connection  
 • Functional interaction testing  
 
-2. Testnet Funding (Pre-condition)
+## 2. Testnet Funding (Pre-condition)
 
 • Received ARC testnet tokens via official faucet  
 • Faucet interaction completed successfully  
@@ -27,7 +27,7 @@ Scope excluded:
 Scope excluded:  
 • Transaction execution  
 
-3. Wallet ↔ dApp Connection  
+## 3. Wallet ↔ dApp Connection  
 
 Scope:  
 • Wallet connection flow  
@@ -91,7 +91,7 @@ Recommendation:
 • Implement wallet dropdown with a clear “Disconnect” option  
 • Optionally include network status or quick network switch  
 
-4. Read-Only Dashboard (ARC Testnet)
+## 4. Read-Only Dashboard (ARC Testnet)
 
 Observations:  
 • dApp opened without wallet shows global stats correctly  
@@ -106,7 +106,7 @@ Summary:
 • Read-only dashboard functions correctly  
 • Wallet disconnect menu missing (see section 3a)  
 
-5. Transaction Testing (ARC Testnet)
+## 5. Transaction Testing (ARC Testnet)
 
 Flows tested:  
 • Swap  
@@ -126,7 +126,7 @@ Observations:
 Summary:  
 • All core transaction flows working as expected  
 
-6. Failure and Edge Case Testing
+## 6. Failure and Edge Case Testing
 
 Observations:  
 • Insufficient balance blocks transaction with clear error message  
@@ -141,7 +141,7 @@ Summary:
 • Failure scenarios handled safely  
 • No inconsistent UI or on-chain state observed  
 
-7. Overall Summary
+## 7. Overall Summary
 
 • Environment and faucet setup verified successfully  
 • Wallet connection flow works but lacks network mismatch recovery UX  
