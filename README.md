@@ -8,7 +8,7 @@ Date: 30-Jan-2026
 Environment: MetaMask, Windows / Chrome  
 dApp: Flow (flowonarc.xyz)
 
-1. Environment Setup
+## 1. Environment Setup
 
 • Added ARC testnet to MetaMask using official RPC parameters  
 • Verified successful network addition with no configuration or RPC errors  
