@@ -6,7 +6,7 @@ Project: ARC Testnet
 QA Engineer: Arun Madhusoodanan  
 Date: 30-Jan-2026  
 Environment: MetaMask, Windows / Chrome  
-dApp: Flow (flowonarc.xyz)  
+dApp: Flow (flowonarc.xyz)
 
 1. Environment Setup
 
