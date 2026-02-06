@@ -58,7 +58,7 @@ Severity:
 • Medium — user interaction blocked without explanation  
 
 Evidence:
-- flow-arc-network-mismatch-unresponsive-cta.mp4  
+- [Network mismatch – unresponsive CTA](flow-arc-network-mismatch-unresponsive-cta.mp4) 
 
 ### Wallet Disconnect / Dropdown Issue
   
