@@ -60,8 +60,8 @@ Severity:
 Evidence:  
 • flow-arc-network-mismatch-unresponsive-cta.mp4  
 
-3a. Wallet Disconnect / Dropdown Issue  
-
+### Wallet Disconnect / Dropdown Issue
+  
 Observation:  
 • Clicking the connected wallet address does not open any dropdown or menu  
 • No option exists to disconnect the wallet from inside the dApp  
